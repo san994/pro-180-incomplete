@@ -1,0 +1,19 @@
+.container{
+    margin-top: 1em;
+    border: 3px solid rgb(73,88,231);
+}
+
+body{
+    margin:0;
+    padding:0;
+    overflow-y: scroll;
+}
+
+.image-marker{
+    height:55px;
+    width:55px;
+}
+
+#map{
+    height:75vh;
+}
